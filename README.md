@@ -103,12 +103,11 @@ quan@huit:~$ cat now.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyenanhquan060205-lab&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhquan060205-lab&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+<img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
+<img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"/> <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg"/> <img width="49%" src="./profile-summary-card-output/github_dark/4-productive-time.svg"/>
 
 <img src="https://streak-stats.demolab.com?user=nguyenanhquan060205-lab&theme=github-dark-blue&hide_border=true&background=0d1117"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenanhquan060205-lab&theme=github-compact&hide_border=true&bg_color=0d1117&area=true"/>
 
 </div>
 
