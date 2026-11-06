@@ -70,11 +70,55 @@
 <td width="50%" valign="top">
 
 ### 🎓 [EduTalk HUIT](https://thesis-edu-talk.vercel.app)
-<sub>THESIS · MONOREPO · PRIVATE</sub>
+<sub>THESIS · MONOREPO · LIVE</sub>
 
 University major recommender (XGBoost) and a RAG chatbot over admin uploaded documents. Realtime WebSocket chat, Web Push, news crawler, CI for web, mobile and backend.
 
 <img src="https://skillicons.dev/icons?i=fastapi,mongodb,nextjs,flutter,githubactions" height="32"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [Mini E-commerce](https://github.com/nguyenanhquan060205-lab/LTMNM-TMDT)
+<sub>WEB COURSE · E-COMMERCE</sub>
+
+Full shopping flow with cart, checkout, order management and product reviews. Laravel MVC with Blade views, Vite assets and a Docker setup.
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,docker" height="32"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 [RoadSense VN](https://github.com/thphz/roadsense-vn)
+<sub>DATA MINING · TEAM PROJECT</sub>
+
+Traffic accident blackspot detection for Vietnam. Geocodes accident addresses, clusters blackspots with DBSCAN, mines risk factors with FP-Growth and maps results on a dashboard.
+
+<img src="https://skillicons.dev/icons?i=py,sklearn,html,js" height="32"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 [Soil Nutrient IoT](https://github.com/nguyenanhquan060205-lab/IoTs-project)
+<sub>IOT COURSE · HARDWARE + APP</sub>
+
+ESP32 reads a 7 in 1 soil sensor over Modbus RS485 and streams it through MQTT over TLS. Flutter app shows live gauges, an NPK radar and a soil health score.
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino,flutter,dart" height="32"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 [C2C Marketplace](https://github.com/nguyenanhquan060205-lab/ThuongMaiDienTu-DoAn)
+<sub>COURSE PROJECT · MARKETPLACE</sub>
+
+Users post items, buy, chat with each other and leave reviews. Admin dashboard for listing approval, user management and complaint handling.
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,html,js" height="32"/>
 
 </td>
 <td width="50%" valign="top">
@@ -88,50 +132,6 @@ News site using Redis Cache Aside, session hashes with TTL and an INCR view coun
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 [Soil Nutrient IoT](https://github.com/nguyenanhquan060205-lab/IoTs-project)
-<sub>IOT COURSE · HARDWARE + APP</sub>
-
-ESP32 reads a 7 in 1 soil sensor over Modbus RS485 and streams it through MQTT over TLS. Flutter app shows live gauges, an NPK radar and a soil health score.
-
-<img src="https://skillicons.dev/icons?i=cpp,arduino,flutter,dart" height="32"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [HUIT Shop](https://github.com/nguyenanhquan060205-lab/TMDT)
-<sub>FULL STACK · E-COMMERCE</sub>
-
-Next.js storefront with an Express API, JWT and Google OAuth, Cloudinary uploads, an AI chatbot, rate limiting and helmet hardening.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,express,mongodb,tailwind" height="32"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏨 [Hotel Management NoSQL](https://github.com/nguyenanhquan060205-lab/QLKS-NoSQL)
-<sub>NOSQL COURSE · CASSANDRA</sub>
-
-Query first Cassandra data model. I built the booking module with BATCH writes, booking history and invoice lookups.
-
-<img src="https://skillicons.dev/icons?i=flask,py,cassandra,tailwind" height="32"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Star Global 360](https://github.com/nguyenanhquan060205-lab/TestStarGlobal)
-<sub>INTERNSHIP TEST · MOBILE</sub>
-
-Native panorama 360 viewer without WebView. Info and navigation hotspots, cinematic scene transitions, search, favorites and history.
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" height="32"/>
-
-</td>
-</tr>
 </table>
 
 <details>
@@ -140,11 +140,11 @@ Native panorama 360 viewer without WebView. Info and navigation hotspots, cinema
 
 | Project | Stack |
 |---|---|
-| [Mini E-commerce](https://github.com/nguyenanhquan060205-lab/LTMNM-TMDT), cart, checkout, orders, reviews | Laravel · MySQL · Blade · Docker |
-| [C2C Marketplace](https://github.com/nguyenanhquan060205-lab/ThuongMaiDienTu-DoAn), post, buy, chat, review, admin moderation | ASP.NET MVC · SQL Server |
+| [HUIT Shop](https://github.com/nguyenanhquan060205-lab/TMDT), full stack e-commerce with JWT, Google OAuth and an AI chatbot | Next.js · Express · TypeScript · MongoDB |
+| [Hotel Management NoSQL](https://github.com/nguyenanhquan060205-lab/QLKS-NoSQL), query first Cassandra model, booking module | Flask · Cassandra · AstraDB |
+| [Star Global 360](https://github.com/nguyenanhquan060205-lab/TestStarGlobal), native panorama 360 viewer with hotspots | Flutter · Dart |
 | [Attendance System](https://github.com/nguyenanhquan060205-lab/DoAnCN-NET), 3 roles, class sessions, check in | ASP.NET · C# · SQL Server |
 | [EduTalk](https://github.com/thuytrang6/EduTalk) (team), premium tiers, MoMo and SePay payments | Flutter · Firebase · Flask |
-| [RoadSense VN](https://github.com/thphz/roadsense-vn) (team), accident blackspots with DBSCAN and FP-Growth | Python · GeoPandas · Folium |
 
 </details>
 
