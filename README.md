@@ -14,22 +14,11 @@
 
 ## 👨‍💻 About Me
 
-```csharp
-public sealed class Quan : Developer
-{
-    public string Name       => "Nguyễn Anh Quân";
-    public string School     => "HUIT, Information Technology (3rd year)";
-    public string Location   => "Ho Chi Minh City, Vietnam";
-
-    public string[] Focus    => ["Backend .NET", "Flutter + Firebase", "Applied ML & RAG"];
-    public string[] SideQuests => ["ESP32 + MQTT", "Windows Server labs (AD DS, CS, FS, RMS)"];
-
-    public string Building   => "EduTalk HUIT: major recommender + RAG chatbot (thesis)";
-    public string LookingFor => "Backend .NET / Mobile internship";
-
-    public string FunFact    => "Ships đồ án at 2AM, refactors them at 3AM";
-}
-```
+- 🎓 3rd year Information Technology student at **HUIT**, Ho Chi Minh City
+- 🔭 Building **EduTalk HUIT**, a major recommender with a RAG chatbot, for my thesis
+- 💼 Focused on **Backend .NET**, **Flutter + Firebase** and **applied ML**
+- 🔧 Side quests: ESP32 + MQTT, Windows Server labs
+- 🎯 Open to **Backend .NET / Mobile internships**
 
 ## 🛠️ Tech Stack
 
