@@ -22,46 +22,106 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-
+<table>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cpy%2Cdart%2Cts%2Cjs%2Cphp%2Ccpp%2Chtml%2Ccss%2Cpowershell&theme=dark&perline=10" />
-  <img src="https://skillicons.dev/icons?i=cs,py,dart,ts,js,php,cpp,html,css,powershell&theme=light&perline=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cpy%2Cdart%2Cts%2Cjs%2Cphp%2Ccpp%2Chtml%2Ccss&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,py,dart,ts,js,php,cpp,html,css&theme=light" />
 </picture>
-
-**Backend & Frontend**
-
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>Backend</b></td>
+<td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cfastapi%2Cflask%2Cnodejs%2Cexpress%2Claravel%2Cnextjs%2Creact%2Ctailwind%2Cvite&theme=dark&perline=10" />
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,flask,nodejs,express,laravel,nextjs,react,tailwind,vite&theme=light&perline=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cfastapi%2Cflask%2Cnodejs%2Cexpress%2Claravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,flask,nodejs,express,laravel&theme=light" />
 </picture>
-
-**Mobile & Databases**
-
+<br/><sub>ASP.NET Core · ASP.NET MVC · ADO.NET / EF</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>Frontend</b></td>
+<td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cfirebase%2Candroidstudio%2Cmysql%2Cmongodb%2Credis%2Ccassandra%2Cdynamodb%2Csqlite&theme=dark&perline=10" />
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,mysql,mongodb,redis,cassandra,dynamodb,sqlite&theme=light&perline=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Ctailwind%2Cvite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=light" />
 </picture>
-
-**AI, IoT & DevOps**
-
+<br/><sub>Blade · Framer Motion · GSAP</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>Mobile</b></td>
+<td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn%2Cpytorch%2Carduino%2Cdocker%2Cgithubactions%2Caws%2Cvercel%2Cheroku%2Cgit%2Cgithub&theme=dark&perline=10" />
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,arduino,docker,githubactions,aws,vercel,heroku,git,github&theme=light&perline=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cfirebase%2Candroidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio&theme=light" />
 </picture>
-
-**Tools**
-
+<br/><sub>Provider · go_router · Firebase Auth / Firestore / FCM</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>Databases</b></td>
+<td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio%2Cvscode%2Cfigma%2Cpostman%2Clatex%2Cwindows&theme=dark&perline=10" />
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,figma,postman,latex,windows&theme=light&perline=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cmongodb%2Credis%2Ccassandra%2Cdynamodb%2Csqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,cassandra,dynamodb,sqlite&theme=light" />
 </picture>
-
-<sub><b>Also:</b> SQL Server · ADO.NET / EF · AstraDB · ChromaDB · XGBoost · SHAP · pandas · GeoPandas · Gemini & Claude API · ESP32 · PlatformIO · MQTT · Modbus RS485 · Cloudinary · pytest · Vitest · Windows Server (AD DS · AD CS · AD FS · AD RMS · NLB)</sub>
-
-</div>
+<br/><sub>SQL Server · AstraDB · Cloud Firestore</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>AI / Data</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn%2Cpytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=light" />
+</picture>
+<br/><sub>XGBoost · SHAP · pandas · GeoPandas · ChromaDB (RAG) · Gemini & Claude API</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>IoT</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
+</picture>
+<br/><sub>ESP32 · PlatformIO · MQTT · Modbus RS485</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>DevOps & Cloud</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Caws%2Cvercel%2Cheroku%2Cgit%2Cgithub&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,heroku,git,github&theme=light" />
+</picture>
+<br/><sub>Cloudinary · pytest · Vitest</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>SysAdmin</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows%2Cpowershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell&theme=light" />
+</picture>
+<br/><sub>Windows Server · AD DS · AD CS · AD FS · AD RMS · NLB</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>Tools</b></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=visualstudio%2Cvscode%2Cfigma%2Cpostman%2Clatex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,figma,postman,latex&theme=light" />
+</picture>
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
